@@ -1,42 +1,42 @@
 [submodule "externals/Catch2"]
 	path = externals/Catch2
-	url = https://github.com/catchorg/Catch2
+	url = https://github.com/calc-i/Catch2.git
 	branch = master
 [submodule "externals/Eigen"]
 	path = externals/Eigen
-	url = https://gitlab.com/libeigen/eigen.git
+	url = https://github.com/calc-i/eigen.git
 	branch = master
 [submodule "externals/ExcelAddinInstaller"]
 	path = externals/ExcelAddinInstaller
-	url = https://github.com/CoolProp/ExcelAddinInstaller.git
+	url = https://github.com/calc-i/ExcelAddinInstaller.git
 	branch = master
 [submodule "externals/FindMathematica"]
 	path = externals/FindMathematica
-	url = https://github.com/sakra/FindMathematica
+	url = https://github.com/calc-i/FindMathematica.git
 	branch = master
 [submodule "externals/IF97"]
 	path = externals/IF97
-	url = https://github.com/CoolProp/IF97
+	url = https://github.com/calc-i/IF97.git
 	branch = master
 [submodule "externals/REFPROP-headers"]
 	path = externals/REFPROP-headers
-	url = https://github.com/CoolProp/REFPROP-headers.git
+	url = https://github.com/calc-i/REFPROP-headers.git
 	branch = master
 [submodule "externals/fmtlib"]
 	path = externals/fmtlib
-	url = https://github.com/fmtlib/fmt.git
+	url = https://github.com/calc-i/fmtlib.git
 	branch = master
 [submodule "externals/msgpack-c"]
 	path = externals/msgpack-c
-	url = https://github.com/msgpack/msgpack-c
+	url = https://github.com/calc-i/msgpack-c.git
 	branch = master
 [submodule "externals/rapidjson"]
 	path = externals/rapidjson
-	url = https://github.com/Tencent/rapidjson.git
+	url = https://github.com/calc-i/rapidjson.git
 	branch = master
 [submodule "externals/pybind11"]
 	path = externals/pybind11
-	url = https://github.com/pybind/pybind11.git
+	url = https://github.com/calc-i/pybind11.git
 [submodule "externals/multicomplex"]
 	path = externals/multicomplex
-	url = https://github.com/usnistgov/multicomplex
+	url = https://github.com/calc-i/multicomplex.git
