@@ -24,7 +24,7 @@
 	branch = master
 [submodule "externals/fmtlib"]
 	path = externals/fmtlib
-	url = https://github.com/calc-i/fmtlib.git
+	url = https://github.com/calc-i/fmt.git
 	branch = master
 [submodule "externals/msgpack-c"]
 	path = externals/msgpack-c
